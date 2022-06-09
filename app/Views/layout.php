@@ -34,7 +34,7 @@
 
   <main role="main" class="container">
 
-    <?= $this->renderSection('content'); ?>
+    <?= $this->renderSection('content') ?>
 
   </main><!-- /.container -->
 
